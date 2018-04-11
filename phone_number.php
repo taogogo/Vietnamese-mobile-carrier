@@ -1,5 +1,5 @@
 <?php
-
+//check from https://en.wikipedia.org/wiki/Telecommunications_in_Vietnam
 $carriers_number = array(
     '096'  => 'Viettel',
     '097'  => 'Viettel',
@@ -12,6 +12,7 @@ $carriers_number = array(
     '0167' => 'Viettel',
     '0168' => 'Viettel',
     '0169' => 'Viettel',
+    '086' => 'Viettel',
     
     '090'  => 'Mobifone',
     '093'  => 'Mobifone',
